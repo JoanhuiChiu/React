@@ -42,7 +42,7 @@ function App_wk1() {
 
   return (
     <>
-      <h1>Vite + react_wk1 : 餐點管理工具</h1>
+      <h1>Vite + react(wk1) : 餐點管理工具</h1>
       <div >
       <table>
             <thead>
